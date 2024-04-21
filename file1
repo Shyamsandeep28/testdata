@@ -1,2 +1,7 @@
 This is file1
+<<<<<<< HEAD
 this is master data
+=======
+thgis is feature data
+HI I'm new branch data 
+>>>>>>> feature1
